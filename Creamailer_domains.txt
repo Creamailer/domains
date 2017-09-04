@@ -1,0 +1,12 @@
+o7.email.cmmail1.com
+o8.email.cmmail2.com
+o10.email.cmmail3.com
+o12.email.cmmail4.com
+o27.email.cmmail5.com
+o48.email.cmmail6.com
+o49.email.cmmail7.com
+o54.email.cmmail8.com
+o55.email.cmmail9.com
+o56.email.cmmail10.com
+o16.viestit.uutiskirje.info
+o41.email.uutiskirjeet.info
