@@ -10,3 +10,11 @@ o55.email.cmmail9.com
 o56.email.cmmail10.com
 o16.viestit.uutiskirje.info
 o41.email.uutiskirjeet.info
+o60.email.uutiskirje.email
+o61.email.uutiskirje.email
+o62.email.uutiskirje.email
+o63.email.uutiskirje.email
+o64.email.uutiskirje.email
+o65.email.uutiskirje.email
+o66.email.uutiskirje.email
+o67.email.uutiskirje.email
