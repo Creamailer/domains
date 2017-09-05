@@ -17,4 +17,3 @@ o63.email.uutiskirje.email
 o64.email.uutiskirje.email
 o65.email.uutiskirje.email
 o66.email.uutiskirje.email
-o67.email.uutiskirje.email
