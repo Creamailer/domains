@@ -11,10 +11,4 @@ email.cmmail10.com
 viestit.uutiskirje.info
 email.uutiskirjeet.info
 email.uutiskirje.email
-email.uutiskirje.email
-email.uutiskirje.email
-email.uutiskirje.email
-email.uutiskirje.email
-email.uutiskirje.email
-email.uutiskirje.email
 email.sahkoposti.email
